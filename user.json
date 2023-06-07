@@ -1,0 +1,23 @@
+[
+    {
+      "make": "Audi",
+      "model": "Q3",
+      "year": 2022,
+      "price": 75000,
+      "image": "audi q3.jpg"
+    },
+    {
+      "make": "Audi",
+      "model": "TT",
+      "year": 2021,
+      "price": 100000,
+      "image": "audi tt.jpg"
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "year": 2020,
+      "price": 40000,
+      "image": "audi a4.jpg"
+    }
+  ]

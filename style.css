@@ -1,0 +1,15 @@
+.user{
+    height: 200px;
+    width: 200px;
+    background-color: lightgray;
+    margin: 30px;
+}
+
+.user img{
+    width: 100px;
+}
+
+.user li{
+    display: inline-block;
+
+}
